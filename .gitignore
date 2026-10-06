@@ -1,0 +1,5 @@
+.env
+antivirus.db
+devices.json
+__pycache__/
+serviceAccountKey.json
